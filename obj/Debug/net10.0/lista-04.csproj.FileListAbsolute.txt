@@ -1,0 +1,14 @@
+C:\Users\luiza_knop\Documents\lista-04\obj\Debug\net10.0\lista-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza_knop\Documents\lista-04\obj\Debug\net10.0\lista-04.AssemblyInfoInputs.cache
+C:\Users\luiza_knop\Documents\lista-04\obj\Debug\net10.0\lista-04.AssemblyInfo.cs
+C:\Users\luiza_knop\Documents\lista-04\obj\Debug\net10.0\lista-04.csproj.CoreCompileInputs.cache
+C:\Users\luiza_knop\Documents\lista-04\bin\Debug\net10.0\lista-04.exe
+C:\Users\luiza_knop\Documents\lista-04\bin\Debug\net10.0\lista-04.deps.json
+C:\Users\luiza_knop\Documents\lista-04\bin\Debug\net10.0\lista-04.runtimeconfig.json
+C:\Users\luiza_knop\Documents\lista-04\bin\Debug\net10.0\lista-04.dll
+C:\Users\luiza_knop\Documents\lista-04\bin\Debug\net10.0\lista-04.pdb
+C:\Users\luiza_knop\Documents\lista-04\obj\Debug\net10.0\lista-04.dll
+C:\Users\luiza_knop\Documents\lista-04\obj\Debug\net10.0\refint\lista-04.dll
+C:\Users\luiza_knop\Documents\lista-04\obj\Debug\net10.0\lista-04.pdb
+C:\Users\luiza_knop\Documents\lista-04\obj\Debug\net10.0\lista-04.genruntimeconfig.cache
+C:\Users\luiza_knop\Documents\lista-04\obj\Debug\net10.0\ref\lista-04.dll
