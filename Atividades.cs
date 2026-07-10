@@ -18,12 +18,7 @@ public static class Atividades
     }
     public static void Atividade02()
     {
-using System;
 
-class Program
-{
-    static void Main()
-    {
         double[] notas = new double[5];
 
         double soma = 0;
@@ -42,11 +37,27 @@ class Program
         Console.WriteLine();
         Console.WriteLine($"Média da turma: {media:F2}");
     }
-}
-    }
     public static void Atividade03()
     {
+        int[,] numeros = new int[2, 3];
+        for (int linha = 0; linha < numeros.GetLength(0); linha++)
+        {
+            for (int coluna = 0; coluna < numeros.GetLength(1); coluna++)
+            {
+                Console.Write($"Informe o valor da posição [{linha},{coluna}]: ");
+                numeros[linha, coluna] = int.Parse(Console.ReadLine());
+            }
+        }
 
+        Console.WriteLine();
+        for (int linha = 0; linha < numeros.GetLength(0); linha++)
+        {
+            for (int coluna = 0; coluna < numeros.GetLength(1); coluna++)
+            {
+                Console.Write(numeros[linha, coluna] + "\t");
+            }
+            Console.WriteLine();
+        }
     }
     public static void Atividade04()
     {

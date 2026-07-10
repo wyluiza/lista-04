@@ -68,7 +68,7 @@ Console.Clear();
             
                     }
             }
-                Console.WriteLine("Pressione qualquer tecla para sair.");
+                Console.WriteLine("Pressione qualquer tecla para voltar.");
             Console.ReadKey();
         } while (opcao != 0);   
     }
